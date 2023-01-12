@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="Movies"
+        android:id="@+id/movies"
+        android:icon="@drawable/movie"/>
+
+
+    <item android:title="Music"
+        android:id="@+id/music"
+        android:icon="@drawable/music"/>
+
+
+    <item android:title="Webseries"
+        android:id="@+id/webseries"
+        android:icon="@drawable/netflix"/>
+    </menu>

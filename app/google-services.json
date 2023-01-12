@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "760352016600",
+    "project_id": "entertainmentauth",
+    "storage_bucket": "entertainmentauth.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:760352016600:android:4ac00ad3c22733cb5a2fad",
+        "android_client_info": {
+          "package_name": "com.example.myapplication.newtablayout"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "760352016600-fsnoutfr7qo06rp1tm3p92t24mmevi4r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCfUDVgInLmShq3MEcXqpJU7XMncxdhsdo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "760352016600-fsnoutfr7qo06rp1tm3p92t24mmevi4r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
